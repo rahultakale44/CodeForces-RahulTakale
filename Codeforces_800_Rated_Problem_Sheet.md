@@ -3,9 +3,7 @@
 Solve the problems in the given order. Create one folder for each problem using the format:
 
 `ProblemNumber-Problem-Name`
-
-Example: `158A-Next-Round`
-
+E
 ## Level 1 — Basic Conditions and Input/Output
 
 1. 4A — Watermelon
@@ -41,7 +39,7 @@ Example: `158A-Next-Round`
 25. 520A — Pangram
 26. 61A — Ultra-Fast Mathematician
 27. 1722A — Spell Check
-28. 1703A — YES or YES?
+28. 1703A —YES or YES?
 29. 1791A — Codeforces Checking
 30. 1840A — Cipher Shifer
 
@@ -100,12 +98,3 @@ For local VS Code practice, use descriptive class names:
 - `NextRound.java`
 - `DominoPiling.java`
 
-For direct Codeforces submission, the class name should be:
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        // solution
-    }
-}
-```
